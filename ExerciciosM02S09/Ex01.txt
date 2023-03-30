@@ -1,0 +1,3 @@
+JPA é mais rapido no desenvolvimento, e menos trabalhoso que o JDBC, que você usa SQL nativo para trabalhar diretamente com os registros, enquanto que no JPA você trabalha com objetos criados a partir desses registros
+
+Já o Spring Data consegue ser ainda mais prático que JPA.
