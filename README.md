@@ -1,7 +1,7 @@
 # Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="ExerciciosM02S09/images/logo-phil.png"/>
 ## Módulo 02 - Semana 09
 
-Repositóriocriado para a elaboração dos 10 exercícios referentes a essa semana. <br>
+Repositório criado para a elaboração dos 10 exercícios referentes a essa semana. <br>
 
 Para visualizar os exercícios, <a href="https://github.com/GeorgeEnriqueBravo/DEVinHouse-Modulo02-Semana09/archive/refs/heads/main.zip" target="_blank">
     clique aqui
